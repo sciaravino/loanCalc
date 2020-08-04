@@ -1,0 +1,2 @@
+#loanCalculator
+![](/img/loading.gif)
