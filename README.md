@@ -1,2 +1,2 @@
 #loanCalculator
-![](/img/results.png)
+![Picture](/img/results.PNG)
